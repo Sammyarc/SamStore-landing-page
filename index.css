@@ -794,7 +794,7 @@ body{
 }
 .team-detail2{
    border-radius: 15px;
-   background-image:url(images/taylor.jpg);
+   background-image:url(/images/taylor.jpg);
    background-repeat: no-repeat;
    background-size: cover;
 }
@@ -805,7 +805,7 @@ body{
 }
 .team-detail3{
    border-radius: 15px;
-   background-image:url(images/felipe.jpg);
+   background-image:url(/images/felipe.jpg);
    background-repeat: no-repeat;
    background-size: cover;
 }
