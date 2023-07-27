@@ -684,6 +684,9 @@ body{
    padding-top: 70px;
    padding-bottom: 50px;
 }
+.feedback-img{
+    object-fit:cover;
+}
 .chat-icon5{
    background-color: #E8E2E2;
    border-radius: 50px;
