@@ -800,6 +800,7 @@ body{
    background-image:url(/images/taylor.jpg);
    background-repeat: no-repeat;
    background-size: cover;
+   object-fit:cover;
 }
 .team-title1{
    position: relative;
@@ -811,6 +812,7 @@ body{
    background-image:url(/images/felipe.jpg);
    background-repeat: no-repeat;
    background-size: cover;
+    object-fit:cover;
 }
 .faq-detail{
    margin-left: 300px;
